@@ -6,4 +6,3 @@ class Produto {
     private nomeProduto: string;
     private valorProduto: number;
 }
-
